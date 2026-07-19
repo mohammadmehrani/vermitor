@@ -9,8 +9,8 @@ export interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
   language: "en",
-  title: "Mohammad Mehrani | DevOps Engineer",
-  description: "DevOps Engineer with hands-on experience in CI/CD, Kubernetes, infrastructure automation, observability, and production-grade Linux environments.",
+  title: "Dreamfyre | Portfolio Template",
+  description: "A modern, animated single-page portfolio template with cinematic hero section, scroll animations, parallax effects, and a testimonial slider.",
 };
 
 // Navigation configuration
@@ -27,7 +27,7 @@ export interface NavigationConfig {
 }
 
 export const navigationConfig: NavigationConfig = {
-  logo: "M.Mehrani",
+  logo: "Dreamfyre",
   links: [
     { label: "About", href: "#about" },
     { label: "Services", href: "#services" },
@@ -46,8 +46,8 @@ export interface HeroConfig {
 }
 
 export const heroConfig: HeroConfig = {
-  name: "Mohammad Mehrani",
-  roles: ["DevOps Engineer", "Cloud Architect", "Platform Engineer", "Infrastructure Specialist"],
+  name: "Your Name",
+  roles: ["Developer", "Designer", "Creator"],
   backgroundImage: "/images/hero-bg.jpg",
 };
 
@@ -264,12 +264,12 @@ export interface CTAConfig {
 }
 
 export const ctaConfig: CTAConfig = {
-  tags: ["DevOps Engineer", "Cloud Architect", "Platform Specialist"],
+  tags: ["Developer", "Designer", "Creator"],
   heading: "Let's Build Something Amazing Together",
-  description: "Available for remote contracts and full-time opportunities. I help organizations build fast, secure, and reliable cloud platforms that scale.",
+  description: "Available for freelance projects and collaboration. I help bring ideas to life with clean, modern design and reliable engineering.",
   buttonText: "Get in Touch",
-  buttonHref: "mailto:admin@m-mehrani.ir",
-  email: "admin@m-mehrani.ir",
+  buttonHref: "mailto:hello@dreamfyre.dev",
+  email: "hello@dreamfyre.dev",
   backgroundImage: "/images/cta-bg.jpg",
 };
 
@@ -299,8 +299,8 @@ export interface FooterConfig {
 }
 
 export const footerConfig: FooterConfig = {
-  logo: "M.Mehrani",
-  description: "DevOps Engineer specializing in cloud infrastructure, Kubernetes, CI/CD pipelines, and platform engineering. Building reliable, scalable systems for modern applications.",
+  logo: "Dreamfyre",
+  description: "A modern portfolio template for developers, designers, and creators. Fully configurable, built with React, TypeScript, and Tailwind CSS.",
   columns: [
     {
       title: "Quick Links",
@@ -323,23 +323,23 @@ export const footerConfig: FooterConfig = {
     {
       title: "Connect",
       links: [
-        { label: "GitHub", href: "https://github.com/mohammadmehrani" },
-        { label: "LinkedIn", href: "https://www.linkedin.com/in/mohammadmehrani/" },
-        { label: "Telegram", href: "https://t.me/mohammad_mehrani" },
-        { label: "Instagram", href: "https://instagram.com/madi_mehrani" },
+        { label: "GitHub", href: "https://github.com/yourusername" },
+        { label: "LinkedIn", href: "https://linkedin.com/in/yourusername" },
+        { label: "Telegram", href: "https://t.me/yourusername" },
+        { label: "Instagram", href: "https://instagram.com/yourusername" },
       ],
     },
   ],
   socialLinks: [
-    { iconName: "Github", href: "https://github.com/mohammadmehrani", label: "GitHub" },
-    { iconName: "Linkedin", href: "https://www.linkedin.com/in/mohammadmehrani/", label: "LinkedIn" },
-    { iconName: "Mail", href: "mailto:admin@m-mehrani.ir", label: "Email" },
-    { iconName: "MapPin", href: "https://www.openstreetmap.org/?mlat=35.7605&mlon=51.3665#map=14/35.7605/51.3665", label: "Location" },
+    { iconName: "Github", href: "https://github.com/yourusername", label: "GitHub" },
+    { iconName: "Linkedin", href: "https://linkedin.com/in/yourusername", label: "LinkedIn" },
+    { iconName: "Mail", href: "mailto:hello@dreamfyre.dev", label: "Email" },
+    { iconName: "MapPin", href: "#", label: "Location" },
   ],
   newsletterHeading: "Stay Updated",
   newsletterDescription: "Subscribe to receive updates on new projects and DevOps insights.",
   newsletterButtonText: "Subscribe",
   newsletterPlaceholder: "Enter your email",
-  copyright: "© 2026 Mohammad Mehrani. All rights reserved.",
+  copyright: "© Dreamfyre Template. All rights reserved.",
   credit: "Designed & Built with passion",
 };
