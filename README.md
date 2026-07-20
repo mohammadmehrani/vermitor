@@ -2,6 +2,10 @@
 
 A modern, animated single-page portfolio template with a cinematic hero section featuring mouse-tracking image reveal, scroll-triggered animations, parallax effects, and a testimonial slider. Built with React, TypeScript, Tailwind CSS, and Vite.
 
+## Live Demo
+
+**https://dreamfy1.vercel.app**
+
 ## Features
 
 - **Cinematic Hero Section** - Full-screen hero with blurred background, sharp mouse-tracking image window with crosshair, and role labels on sides
