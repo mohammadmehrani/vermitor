@@ -4,7 +4,7 @@ A modern, animated single-page portfolio template with a cinematic hero section 
 
 ## Live Demo
 
-**https://dreamfy1.vercel.app**
+**https://maddixmhn-dreamfyre.vercel.app**
 
 ## Features
 
